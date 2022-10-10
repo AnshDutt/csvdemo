@@ -13,6 +13,28 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>csvdemo</name>
 	<description>Demo project for Spring Boot</description>
+	<url>https://github.com/AnshDutt/csvdemo</url>
+	<licenses>
+  <license>
+    <name>MIT License</name>
+    <url>http://www.opensource.org/licenses/mit-license.php</url>
+  </license>
+</licenses>
+	<scm>
+  <connection>scm:git:git://github.com/AnshDutt/csvdemo.git</connection>
+  <developerConnection>scm:git:ssh://github.com:AnshDutt/csvdemo.git</developerConnection>
+  <url>https://github.com/AnshDutt/csvdemo</url>
+</scm>
+
+	 <developers>
+    <developer>
+      <name>Ansh Dutt</name>
+      <email>anshukdutt03@gmail.com</email>
+      <organization>io.github.anshdutt</organization>
+      <organizationUrl>https://github.com/AnshDutt/csvdemo</organizationUrl>
+    </developer>
+  </developers>
+	
 	<properties>
 		<java.version>11</java.version>
 	</properties>
